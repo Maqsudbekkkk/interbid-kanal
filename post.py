@@ -13,6 +13,7 @@ Kerakli muhit o'zgaruvchilari:
 import glob
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -134,11 +135,27 @@ def telegram(token, method, payload):
     return data["result"]
 
 
-def send(token, post):
+LINK_RE = re.compile(r"\{\{link:([\w\-]+)\}\}")
+
+
+def channel_url(message_id=None):
+    base = f"https://t.me/{CHAT_ID.lstrip('@')}"
+    return f"{base}/{message_id}" if message_id else base
+
+
+def resolve_links(text, state):
+    """{{link:post-id}} o'rniga joylangan postning havolasini qo'yadi (topilmasa kanal havolasi)."""
+    def repl(m):
+        entry = state.get(m.group(1), {})
+        return channel_url(entry.get("message_id"))
+    return LINK_RE.sub(repl, text)
+
+
+def send(token, post, state):
     if post["type"] == "message":
         payload = {
             "chat_id": CHAT_ID,
-            "text": post["text"],
+            "text": resolve_links(post["text"], state),
             "parse_mode": "HTML",
             "link_preview_options": {"is_disabled": not post["preview"]},
         }
@@ -160,6 +177,11 @@ def send(token, post):
 def check():
     posts, errors = load_posts()
     state = load_state()
+    ids = {p["id"] for p in posts} | set(state)
+    for p in posts:
+        for ref in LINK_RE.findall(p.get("text", "")):
+            if ref not in ids:
+                errors.append(f"{p['id']}: {{{{link:{ref}}}}} da ko'rsatilgan post topilmadi")
     tz = timezone(timedelta(hours=5))
     print(f"{len(posts)} ta post topildi:")
     for p in posts:
@@ -196,7 +218,7 @@ def run():
             state[p["id"]] = {"skipped": True, "reason": f"{late} kechikdi", "checked_at": now.isoformat()}
             continue
         try:
-            result = send(token, p)
+            result = send(token, p, state)
         except PostError as e:
             print(f"XATO: {p['id']}: {e}")
             failed = True

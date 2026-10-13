@@ -1,0 +1,23 @@
+at: 2026-10-21T12:00:00+05:00
+type: message
+---
+⚖️ <b>MXIK VA TIF TN: 1-DEKABRGACHA NIMANI TEKSHIRISH KERAK?</b>
+
+Vazirlar Mahkamasining 480-son qaroriga ko'ra, 2026-yil 1-dekabrga qadar davlat xaridlarida ishlatiladigan tovarlar klassifikatori MXIK va TIF TN kodlari bilan moslashtiriladi. Qaysi kod qaysi tovarga mos kelishi ro'yxati e'lon qilinadi va doimiy yangilab boriladi.
+
+<b>Nega bu muhim?</b> 1-oktabrdan buyurtmachilar boshlang'ich narxni Portalning narx modulida shakllantirmoqda. 2027-yil 1-yanvardan esa ro'yxatdagi tovarlarning o'rtacha bozor narxini sun'iy intellekt aniqlaydi. Kod tovaringizning tizimdagi "pasporti" bo'lib qoladi.
+
+✅ <b>Hozirdan tekshiring:</b>
+1️⃣ Har bir mahsulotingizning MXIK kodi to'g'rimi? Tekshirish: tasnif.soliq.uz
+2️⃣ Hisob-fakturadagi va tender taklifidagi kod bir xilmi?
+3️⃣ Import tovar bo'lsa, bojxona deklaratsiyasidagi TIF TN kodi tovaringizga mosmi?
+
+📌 Kodlar tartibga keltirilgach, tizim tovarlarni aynan shu kodlar bo'yicha taniydi. Xatoni hozir tuzatish keyin tuzatishdan osonroq.
+
+💬 Savollaringiz bo'lsa: @interbid_academy
+📄 Manba: <a href="https://lex.uz/uz/docs/-8462556">VM qarori №480, lex.uz</a>
+
+#qonun
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>

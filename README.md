@@ -6,6 +6,7 @@ Bu repo @inter_bid Telegram kanaliga postlarni o'z vaqtida joylaydi. Postlar @IN
 
 - Har bir post `posts/` papkasida alohida `.txt` fayl.
 - GitHub Actions har kuni Toshkent vaqti bilan 09:00, 11:00, 12:00 va 13:00 da (har soatda ikki marta) ishga tushadi va vaqti kelgan postlarni joylaydi.
+- Haftalik jadval: Du/Se/Pa 09:00, Ch 12:00, Ju 13:00, Sh va Ya 11:00.
 - Joylangan postlar `state/sent.json` fayliga yoziladi, shuning uchun hech bir post ikki marta chiqmaydi.
 - 12 soatdan ko'p kechikkan post yuborilmaydi, faqat "o'tkazib yuborildi" deb belgilanadi.
 - Xato bo'lsa, Actions'da qizil belgi chiqadi va GitHub sizga email yuboradi.
@@ -37,6 +38,8 @@ Savol matni?
 ```
 
 Formatlash HTML'da: `<b>qalin</b>`, `<i>kursiv</i>`, `<a href="...">havola</a>`. Matn 4096 belgidan oshmasligi kerak.
+
+Boshqa postga havola: `{{link:2026-10-14-1200-qonun-480-qaror}}` yozilsa, joylash paytida o'sha postning t.me havolasi qo'yiladi (haftalik dayjest uchun).
 
 ## Kerakli sozlama
 

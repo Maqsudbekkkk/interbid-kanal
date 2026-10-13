@@ -1,0 +1,26 @@
+at: 2026-10-18T11:00:00+05:00
+type: message
+---
+🗓 <b>HAFTALIK DAYJEST | 12–18 oktabr</b>
+
+Bu hafta kanalda 👇
+
+💡 <a href="https://t.me/inter_bid/128">Texnik topshiriqni 15 daqiqada qanday o'qish kerak</a>
+⚖️ <a href="{{link:2026-10-14-1200-qonun-480-qaror}}">1-oktabrdan narx moduli majburiy: 3 ta xulosa</a>
+❌ <a href="{{link:2026-10-15-0900-xato-rad-etish-sabablari}}">Ariza nega rad etildi: 5 ta sabab</a>
+📊 <a href="{{link:2026-10-16-1300-sorovnoma-tosiqlar}}">So'rovnoma: tenderda sizni nima to'xtatadi?</a> Hali ovoz bermagan bo'lsangiz, qo'shiling.
+🎁 <a href="{{link:2026-10-17-1100-taklif-bepul-qollanmalar}}">Bepul qo'llanmalar</a>
+
+📅 <b>Keyingi hafta:</b>
+Du — Qaysi lotda qatnashish kerak: 5 ta filtr
+Se — Elektron do'kon, auksion va tender: farqi nimada
+Ch — MXIK va TIF TN: 1-dekabrgacha nimani tekshirish kerak
+Pa — 200 mln so'mlik lot: qo'lingizda qancha qoladi
+Ju — Savol-javob: eng ko'p beriladigan 3 ta savol
+
+👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
+
+#dayjest
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>
