@@ -1,0 +1,10 @@
+at: 2026-10-16T13:00:00+05:00
+type: poll
+---
+Tenderda qatnashishga sizni eng ko'p nima to'xtatadi?
+- Qayerdan boshlashni bilmayman
+- Hujjatlar murakkab
+- Narxni to'g'ri hisoblay olmayman
+- "Baribir oldindan kelishilgan" deb o'ylayman
+- Aylanma mablag' yetmaydi
+- Allaqachon qatnashaman, muammo yo'q
