@@ -1,0 +1,49 @@
+name: Kanalga post joylash
+
+on:
+  schedule:
+    # Toshkent vaqti 09:00, 11:00, 12:00, 13:00 (UTC 04, 06, 07, 08).
+    # Har soatda ikki marta (:02 va :32) ishga tushadi, chunki GitHub ba'zan kechikadi.
+    - cron: "2,32 4,6,7,8 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "posts/**"
+      - "post.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kanal-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Post fayllarini tekshirish
+        run: python3 post.py --check
+
+      - name: Vaqti kelgan postlarni joylash
+        if: github.event_name != 'push'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: "@inter_bid"
+        run: python3 post.py
+
+      - name: Holatni saqlash
+        if: always() && github.event_name != 'push'
+        run: |
+          git config user.name "interbid-kanal"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/sent.json
+          if git diff --cached --quiet; then
+            echo "O'zgarish yo'q"
+          else
+            git commit -m "Joylangan postlar holati yangilandi"
+            git pull --rebase
+            git push
+          fi
