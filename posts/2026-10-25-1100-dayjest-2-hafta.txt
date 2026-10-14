@@ -13,11 +13,11 @@ Bu hafta kanalda 👇
 🤝 <a href="{{link:2026-10-24-1100-taklif-konsultatsiya}}">Lotingizni birga ko'rib chiqamiz</a>
 
 📅 <b>Keyingi hafta:</b>
-Du — Lotlar rubrikasi
-Se — Kvalifikatsiya hujjatlari: tayyor chek-list
-Ch — Markaziy bankning 28-oktabr qarori va tender biznesi
-Pa — Insofsiz ijrochilar reestri: qanday tushib qolinadi
-Ju — So'rovnoma
+Du — Bu lotdan uzoqroq yuring: 5 ta ogohlantiruvchi belgi
+Se — Tenderga kirishdan oldin: ishtirokchi chek-listi
+Ch — Insofsiz ijrochilar reestri: kim tushadi va oqibati nima
+Pa — G'olib bo'lgandan keyingi xatolar
+Ju — So'rovnoma: qaysi platformada ishlaysiz?
 
 👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
 

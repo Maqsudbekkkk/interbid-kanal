@@ -1,0 +1,9 @@
+at: 2026-10-30T13:00:00+05:00
+type: poll
+---
+Davlat xaridlarida qaysi platformada ko'proq ishlaysiz?
+- xarid.uzex.uz
+- etender.uzex.uz
+- Ikkalasida ham
+- Boshqa platformada
+- Hali qatnashmaganman

@@ -1,0 +1,20 @@
+at: 2026-11-01T11:00:00+05:00
+type: message
+---
+🗓 <b>HAFTALIK DAYJEST | 26-oktabr – 1-noyabr</b>
+
+Bu hafta kanalda 👇
+
+🚩 <a href="{{link:2026-10-26-0900-lotlar-ogohlantiruvchi-belgilar}}">Bu lotdan uzoqroq yuring: 5 ta belgi</a>
+💡 <a href="{{link:2026-10-27-0900-darslik-ishtirokchi-chek-listi}}">Tenderga kirishdan oldin: ishtirokchi chek-listi</a>
+⚖️ <a href="{{link:2026-10-28-1200-qonun-insofsiz-ijrochilar}}">Insofsiz ijrochilar reestri: kim tushadi va oqibati nima</a>
+❌ <a href="{{link:2026-10-29-0900-payshanba}}">G'olib bo'lgandan keyin qilinadigan 4 ta xato</a>
+📊 <a href="{{link:2026-10-30-1300-sorovnoma-platforma}}">So'rovnoma: qaysi platformada ishlaysiz?</a>
+🎓 <a href="{{link:2026-10-31-1100-taklif-kurs-navbat}}">Kursning keyingi guruhi</a>
+
+👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
+
+#dayjest
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>
