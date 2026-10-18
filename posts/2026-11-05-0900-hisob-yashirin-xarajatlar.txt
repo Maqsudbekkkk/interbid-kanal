@@ -1,0 +1,30 @@
+at: 2026-11-05T09:00:00+05:00
+type: message
+---
+💰 <b>NARX TAKLIFIDA UNUTILADIGAN 6 TA XARAJAT</b>
+
+Ko'pchilik faqat tovar tannarxini hisoblaydi. Lekin foydani quyidagilar "yeb qo'yadi" 👇
+
+1️⃣ <b>Zakalat muzlashi.</b> Savdo davomida zakalat summasi aylanmadan chiqib turadi.
+2️⃣ <b>Aylanma mablag' narxi.</b> To'lov kelguncha tovarga ketgan pul: kredit bo'lsa foizi, o'z pulingiz bo'lsa boy berilgan daromad.
+3️⃣ <b>Yetkazish va yuklash-tushirish.</b> Ayniqsa uzoq hududlarga.
+4️⃣ <b>Hujjatlar.</b> Sertifikat, ekspertiza yoki sinov talab qilinsa, ularning narxi.
+5️⃣ <b>Platforma va bank xizmatlari.</b> Komissiya va to'lovlar (lot shartiga qarab).
+6️⃣ <b>Xavf zaxirasi.</b> Narx o'zgarishi yoki kechikish uchun 2–3%.
+
+<b>Misol</b> (raqamlar shartli): 100 mln so'mlik shartnoma (QQSsiz), tovar tannarxi 80 mln.
+🏦 Aylanma mablag' (80 mln, yillik 24%, 60 kun): 3,2 mln
+🚚 Yetkazish: 2 mln
+📑 Sertifikat va hujjatlar: 0,5 mln
+💳 Komissiya va bank xizmatlari: 0,3 mln
+🛡 Xavf zaxirasi (2%): 2 mln
+= <b>8 mln so'm</b> tovar tannarxidan tashqari.
+
+✅ Haqiqiy foyda: <b>12 mln</b>. Bu xarajatlar unutilsa, 20 mln deb o'ylaysiz.
+
+📌 <b>Xulosa:</b> har bir lot hisob-kitobiga shu 6 qatorni qo'shing.
+
+#hisob
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>

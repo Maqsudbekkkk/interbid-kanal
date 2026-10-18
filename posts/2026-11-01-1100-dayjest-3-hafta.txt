@@ -12,6 +12,13 @@ Bu hafta kanalda 👇
 📊 <a href="{{link:2026-10-30-1300-sorovnoma-platforma}}">So'rovnoma: qaysi platformada ishlaysiz?</a>
 🎓 <a href="{{link:2026-10-31-1100-taklif-kurs-navbat}}">Kursning keyingi guruhi</a>
 
+📅 <b>Keyingi hafta:</b>
+Du — Lotni 30 daqiqada tahlil qilish rejasi
+Se — TZ'ga muvofiqlik jadvali
+Ch — Savdoda bitta ishtirokchi qolsa nima bo'ladi
+Pa — Narx taklifida unutiladigan 6 ta xarajat
+Ju — Savol-javob: yana 3 ta savol
+
 👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
 
 #dayjest

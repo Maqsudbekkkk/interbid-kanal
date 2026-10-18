@@ -1,0 +1,27 @@
+at: 2026-11-02T09:00:00+05:00
+type: message
+---
+🧭 <b>LOTNI 30 DAQIQADA TAHLIL QILISH REJASI</b>
+
+Lot topdingizmi? Qatnashish yoki qatnashmaslikni yarim soatda hal qiling 👇
+
+⏱ <b>0–5 daqiqa: umumiy ko'rinish</b>
+Predmet, summa, hudud va muddat. Biror narsa to'g'ri kelmasa, shu yerda to'xtang.
+
+⏱ <b>5–15 daqiqa: texnik topshiriq</b>
+7 ta savol bo'yicha o'qing: <a href="https://t.me/inter_bid/128">TZ'ni o'qish qo'llanmasi</a>.
+
+⏱ <b>15–20 daqiqa: ogohlantiruvchi belgilar</b>
+<a href="{{link:2026-10-26-0900-lotlar-ogohlantiruvchi-belgilar}}">5 ta belgidan</a> birortasi bormi?
+
+⏱ <b>20–30 daqiqa: hisob-kitob</b>
+Tannarx, logistika, QQS va aylanma mablag'. <a href="{{link:2026-10-22-0900-hisob-200-mln-lot}}">Misol shu yerda</a>.
+
+✅ <b>Qaror:</b> foyda bor, talablarni bajara olasiz va muddatga ulgurasiz bo'lsa, qatnashing. Aks holda keyingi lotga o'ting.
+
+💬 Lot tanlashda yordam kerakmi? @interbid_academy ga yozing.
+
+#lotlar
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>
