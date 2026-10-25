@@ -1,0 +1,9 @@
+at: 2026-11-13T13:00:00+05:00
+type: poll
+---
+Kanalda qaysi mavzu sizga ko'proq kerak?
+- Hujjatlarni tayyorlash
+- Narxni hisoblash
+- Platformada qadam-baqadam ishlash
+- Shikoyat va nizolar
+- Lot va buyurtmachi topish

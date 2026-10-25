@@ -1,0 +1,20 @@
+at: 2026-11-15T11:00:00+05:00
+type: message
+---
+🗓 <b>HAFTALIK DAYJEST | 9–15 noyabr</b>
+
+Bu hafta kanalda 👇
+
+🎯 <a href="{{link:2026-11-09-0900-lotlar-doimiy-buyurtmachi}}">Doimiy buyurtmachi topish: 4 qadam</a>
+💡 <a href="{{link:2026-11-10-0900-darslik-24-soat-tekshiruv}}">Taklif topshirishdan 24 soat oldin: 8 ta tekshiruv</a>
+⚖️ <a href="{{link:2026-11-11-1200-qonun-mahalliy-ishlab-chiqaruvchi}}">Mahalliy ishlab chiqaruvchilar uchun yangi imkoniyatlar</a>
+❌ <a href="{{link:2026-11-12-0900-xato-birinchi-tender}}">Birinchi tenderda qilinadigan 5 ta xato</a>
+📊 <a href="{{link:2026-11-13-1300-sorovnoma-mavzu}}">So'rovnoma: qaysi mavzu sizga kerak?</a> Hali ovoz bermagan bo'lsangiz, qo'shiling.
+🧮 <a href="{{link:2026-11-14-1100-taklif-narx-hisobi}}">Narxni birga hisoblaymiz</a>
+
+👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
+
+#dayjest
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>
