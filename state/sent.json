@@ -50,5 +50,9 @@
   "2026-10-26-0900-lotlar-ogohlantiruvchi-belgilar": {
     "message_id": 141,
     "sent_at": "2026-10-26T04:01:04.198441+00:00"
+  },
+  "2026-10-27-0900-darslik-ishtirokchi-chek-listi": {
+    "message_id": 142,
+    "sent_at": "2026-10-27T04:00:54.321173+00:00"
   }
 }
