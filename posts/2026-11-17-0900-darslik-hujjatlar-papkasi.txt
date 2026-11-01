@@ -1,0 +1,30 @@
+at: 2026-11-17T09:00:00+05:00
+type: message
+---
+💡 <b>DOIMIY TAYYOR HUJJATLAR PAPKASI: 15 DAQIQADA TENDERGA TAYYOR</b>
+
+Har bir tender uchun hujjatlarni noldan yig'mang. Bitta papka tuzing 👇
+
+📁 <b>1. Korxona hujjatlari</b>
+Guvohnoma, litsenziya va ruxsatnomalar. Har biri alohida PDF.
+
+📁 <b>2. Mahsulot hujjatlari</b>
+Sertifikatlar, texnik pasportlar, kataloglar. Tovar nomi bilan saqlang.
+
+📁 <b>3. Tajriba</b>
+Bajarilgan shartnomalar va dalolatnomalar nusxalari.
+
+📁 <b>4. Shablonlar</b>
+Narx taklifi, kafolat xati, <a href="{{link:2026-11-03-0900-darslik-muvofiqlik-jadvali}}">muvofiqlik jadvali</a>.
+
+📅 <b>5. Muddatlar jadvali</b>
+Har bir hujjat va ERI'ning tugash sanasi. Oyda bir marta tekshiring.
+
+📌 <b>Fayl nomlash qoidasi:</b> "2026-litsenziya-qurilish.pdf" kabi. Kerakli faylni 10 soniyada topasiz.
+
+💾 Saqlab qo'ying va bugunoq papkani tuzing.
+
+#darslik
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>

@@ -1,0 +1,20 @@
+at: 2026-11-22T11:00:00+05:00
+type: message
+---
+🗓 <b>HAFTALIK DAYJEST | 16–22 noyabr</b>
+
+Bu hafta kanalda 👇
+
+🤝 <a href="{{link:2026-11-16-0900-lotlar-taminotchi}}">Taklif berishdan oldin ta'minotchiga 5 ta savol</a>
+💡 <a href="{{link:2026-11-17-0900-darslik-hujjatlar-papkasi}}">Doimiy tayyor hujjatlar papkasi</a>
+⚖️ <a href="{{link:2026-11-18-1200-qonun-mxik-eslatma}}">1-dekabrgacha 2 hafta: MXIK kodlarini tekshirdingizmi?</a>
+💰 <a href="{{link:2026-11-19-0900-hisob-pul-oqimi}}">Pulingiz qancha vaqt muzlaydi?</a>
+❓ <a href="{{link:2026-11-20-1300-savoljavob-uchinchi}}">Savol-javob: yana 3 ta savol</a>
+🎁 <a href="{{link:2026-11-21-1100-taklif-qollanmalar}}">Bepul qo'llanmalar</a>
+
+👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
+
+#dayjest
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>

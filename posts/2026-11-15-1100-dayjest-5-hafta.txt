@@ -12,6 +12,13 @@ Bu hafta kanalda 👇
 📊 <a href="{{link:2026-11-13-1300-sorovnoma-mavzu}}">So'rovnoma: qaysi mavzu sizga kerak?</a> Hali ovoz bermagan bo'lsangiz, qo'shiling.
 🧮 <a href="{{link:2026-11-14-1100-taklif-narx-hisobi}}">Narxni birga hisoblaymiz</a>
 
+📅 <b>Keyingi hafta:</b>
+Du — Taklif berishdan oldin ta'minotchiga 5 ta savol
+Se — Doimiy tayyor hujjatlar papkasi
+Ch — 1-dekabrgacha 2 hafta: MXIK kodlarini tekshirdingizmi?
+Pa — Pulingiz qancha vaqt muzlaydi?
+Ju — Savol-javob: yana 3 ta savol
+
 👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
 
 #dayjest
