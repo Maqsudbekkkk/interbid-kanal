@@ -15,7 +15,7 @@ Sertifikatlar, texnik pasportlar, kataloglar. Tovar nomi bilan saqlang.
 Bajarilgan shartnomalar va dalolatnomalar nusxalari.
 
 📁 <b>4. Shablonlar</b>
-Narx taklifi, kafolat xati, <a href="{{link:2026-11-03-0900-darslik-muvofiqlik-jadvali}}">muvofiqlik jadvali</a>.
+Narx taklifi, kafolat xati, muvofiqlik jadvali.
 
 📅 <b>5. Muddatlar jadvali</b>
 Har bir hujjat va ERI'ning tugash sanasi. Oyda bir marta tekshiring.
