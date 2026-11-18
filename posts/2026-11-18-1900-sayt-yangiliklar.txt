@@ -1,0 +1,43 @@
+at: 2026-11-18T19:00:00+05:00
+type: message
+preview: yes
+---
+🌐 <b>SAYTIMIZ YANGILANDI!</b>
+
+<a href="https://interbidacademy.uz">interbidacademy.uz</a> saytiga tender bilan ishlash uchun yangi bo'limlar va bepul vositalar qo'shildi 👇
+
+🧮 <b>Narx-marja hisoblagichi</b>
+Tannarx, logistika, soliq va kerakli foydani kiriting. Sayt tavsiya etilgan taklif narxini hisoblab beradi va uni raqobatchi narxi bilan solishtiradi.
+<a href="https://interbidacademy.uz/hisoblagich.php">Hisoblash ›</a>
+
+✅ <b>Tayyorlik testi</b>
+7 ta savolga 2 daqiqada javob berib, tenderga qanchalik tayyorligingizni bilib oling.
+<a href="https://interbidacademy.uz/test.php">Testdan o'tish ›</a>
+
+📋 <b>Bepul chek-list</b>
+"Ariza topshirishdan oldin 24 ta tekshiruv" PDF shaklida.
+<a href="https://interbidacademy.uz/blog.php#chek-list">Yuklab olish ›</a>
+
+📖 <b>Tender lug'ati va qonunlar</b>
+Asosiy atamalar va me'yoriy hujjatlar bir joyda.
+<a href="https://interbidacademy.uz/lugat.php">Lug'at ›</a> | <a href="https://interbidacademy.uz/qonunlar.php">Qonunlar ›</a>
+
+🎬 <b>Video darslar va blog</b>
+<a href="https://interbidacademy.uz/kontent.php">Video darslar ›</a> | <a href="https://interbidacademy.uz/blog.php">Blog ›</a>
+
+🎓 <b>Sertifikatni tekshirish</b>
+Bitiruvchilar sertifikatini raqami yoki QR-kodi orqali tekshirish mumkin. Ish beruvchilar uchun qulay.
+<a href="https://interbidacademy.uz/sertifikat.php">Tekshirish ›</a>
+
+🏢 <b>Kompaniyalar uchun</b>
+Xodimlar uchun sohaga moslashtirilgan korporativ kurs.
+<a href="https://interbidacademy.uz/korporativ.php">Batafsil ›</a>
+
+📅 <b>Yaqin guruhlar:</b> 30-noyabr va 14-dekabr, onlayn, soat 20:00 da.
+
+📩 Savollar uchun: @interbid_academy
+📞 +998 90 874 47 75
+
+#yangilik
+━━━━━━━━━━━━━━
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>

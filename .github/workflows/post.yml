@@ -4,7 +4,7 @@ on:
   schedule:
     # Toshkent vaqti 09:00, 11:00, 12:00, 13:00 (UTC 04, 06, 07, 08).
     # Har soatda ikki marta (:02 va :32) ishga tushadi, chunki GitHub ba'zan kechikadi.
-    - cron: "5,35 4-12 * * *"
+    - cron: "5,35 4-14 * * *"
   workflow_dispatch:
   push:
     paths:
