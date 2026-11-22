@@ -1,0 +1,27 @@
+at: 2026-11-29T11:00:00+05:00
+type: message
+---
+🗓 <b>HAFTALIK DAYJEST | 23–29 noyabr</b>
+
+Bu hafta kanalda 👇
+
+🧭 <a href="{{link:2026-11-23-1145-lotlar-30-daqiqalik-tahlil}}">Lotni 30 daqiqada tahlil qilish rejasi</a>
+💡 <a href="{{link:2026-11-24-1417-darslik-muvofiqlik-jadvali}}">TZ'ga muvofiqlik jadvali</a>
+⚖️ <a href="{{link:2026-11-25-1032-qonun-bitta-ishtirokchi}}">Savdoda bitta ishtirokchi qolsa nima bo'ladi?</a>
+💰 <a href="{{link:2026-11-26-1634-hisob-yashirin-xarajatlar}}">Narx taklifida unutiladigan 6 ta xarajat</a>
+❓ <a href="{{link:2026-11-27-1121-savoljavob-shartnoma-narx-eri}}">Savol-javob: shartnoma, narx va ERI</a>
+🎓 <a href="{{link:2026-11-28-1634-kurs-30-noyabr}}">Yangi guruh 30-noyabrda boshlanadi</a>
+
+⏰ <b>Eslatma:</b> 1-dekabrga qadar tovarlar klassifikatori MXIK va TIF TN kodlari bilan moslashtiriladi. Kodlaringizni tekshirdingizmi? <a href="{{link:2026-11-18-1200-qonun-mxik-eslatma}}">Batafsil</a>
+
+📅 <b>Keyingi hafta:</b>
+Du — Doimiy buyurtmachi topish: 4 qadam
+Se — Taklif topshirishdan 24 soat oldin: 8 ta tekshiruv
+Ch — Mahalliy ishlab chiqaruvchilar uchun yangi imkoniyatlar
+
+👥 Tender bilan ishlaydigan tanishlaringizga kanalni ulashing: t.me/inter_bid
+
+#dayjest
+━━━━━━━━━━━━━━
+🎁 Bepul qo'llanmalar: interbidacademy.uz
+📲 <a href="https://t.me/inter_bid">Telegram</a> | <a href="https://www.instagram.com/mahsudbek_tenderlar">Instagram</a> | <a href="https://youtube.com/@khalilovmahsudbek">YouTube</a>
